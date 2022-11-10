@@ -1,8 +1,8 @@
 # Zdarfa (Moppy) Custom Modded BSC Geth
-Advanced modified geth  for your Private Node.
+```Advanced modified geth  for your Private Node.
 
 Sniping speed on Txpool (mempool) is drastically increased ! 
-
+```
 ## Public tests:
 To compare the modded geth with default geth, we used 6 servers, each one with a dedicated full BSC node and a basic nodejs sniper on it.
 
