@@ -29,15 +29,15 @@ __
 
 **_All the snipers are using localhost ws endpoint:_**
 
-►Sniper on server A (modded geth) : <https://bscscan.com/address/0xb005880498fd27ef19eebd7459827b9317b2f5d6>
+►Sniper on server A (modded geth) : <https://bscscan.com/address/0x8042A6849A5d83771a6408E3eC175A0D8599203a>
 
-►Sniper on server B : <https://bscscan.com/address/0x400CE587f1761AD17ac486b73D5dF855247C840B>
+►Sniper on server B : <https://bscscan.com/address/0xb005880498fd27ef19eebd7459827b9317b2f5d6>
 
-►Sniper on server C : <https://bscscan.com/address/0xdfe23a9cd81191911148ca5180fefcc920b9b2f7>
+►Sniper on server C : <https://bscscan.com/address/0x400CE587f1761AD17ac486b73D5dF855247C840B>
 
-►Sniper on server D : <https://bscscan.com/address/0x500d2e2e35c8fd13aa27e91a72dbf9c46592883c>
+►Sniper on server D : <https://bscscan.com/address/0xdfe23a9cd81191911148ca5180fefcc920b9b2f7>
 
-►Sniper on server E : <https://bscscan.com/address/0x8042A6849A5d83771a6408E3eC175A0D8599203a>
+►Sniper on server E : <https://bscscan.com/address/0x500d2e2e35c8fd13aa27e91a72dbf9c46592883c>
 
 ►Sniper on server F : <https://bscscan.com/address/0x1a55b71843a44fdb5e39fc6f26be3e79d8394c6d>
 
