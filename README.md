@@ -17,7 +17,7 @@ We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 
 
 
-
+##
 ## Details:
 __ 
 
