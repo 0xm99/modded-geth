@@ -17,7 +17,7 @@ We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 ## Details:
 **Liquidity provider is using default public node**
 
-►Liquidity provider : [https://bscscan.com/address/0x83dc5e823f608935dcf57f5b3317e4fba4a878fd](url)
+►Liquidity provider : <https://bscscan.com/address/0x83dc5e823f608935dcf57f5b3317e4fba4a878fd>
 
 **All the snipers are using localhost ws endpoint:**
 
