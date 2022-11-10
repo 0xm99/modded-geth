@@ -15,7 +15,7 @@ We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 **Modded geth (SERVER A)  won 16 snipes out of 20**
 
 ## Details:
-**__Liquidity provider is using default public node__**
+**_Liquidity provider is using default public node_**
 
 ►Liquidity provider : <https://bscscan.com/address/0x83dc5e823f608935dcf57f5b3317e4fba4a878fd>
 
