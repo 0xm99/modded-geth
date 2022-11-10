@@ -19,6 +19,8 @@ We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 
 ►Liquidity provider : <https://bscscan.com/address/0x83dc5e823f608935dcf57f5b3317e4fba4a878fd>
 
+_ _ 
+
 **All the snipers are using localhost ws endpoint:**
 
 ►Sniper on server A (modded geth) : <https://bscscan.com/address/0xb005880498fd27ef19eebd7459827b9317b2f5d6>
