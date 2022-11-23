@@ -5,7 +5,7 @@
 >Sniping speed on Txpool (mempool) is drastically increased ! 
 
 ## Public tests:
->Modded geth VS default geth : 6 servers, each one with a dedicated full BSC node and a basic nodejs sniper on it.
+>Modded geth VS default geth tests: 6 servers, each one with a dedicated full BSC node and a basic nodejs sniper on it.
 >
 >1 server = 1 node = 1 sniper. Same servers location, same settings for everyone.
 >
