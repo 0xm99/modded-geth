@@ -1,20 +1,17 @@
 # Zdarfa (Moppy) Custom Modded BSC Geth
 
 >Advanced modified geth  for your Private Node.
+>
 >Sniping speed on Txpool (mempool) is drastically increased ! 
 
 ## Public tests:
 >To compare the modded geth with default geth, we used 6 servers, each one with a dedicated full BSC node and a basic nodejs sniper on it.
 >
->1 server = 1 node = 1 sniper.
->
->Same servers location, same settings for everyone.
+>1 server = 1 node = 1 sniper. Same servers location, same settings for everyone.
 >
 >We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 >
 >### ►► RESULT: Modded geth (SERVER A)  won 16 snipes out of 20 ◄◄
-
-
 
 ##
 ## Details:
