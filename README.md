@@ -1,7 +1,6 @@
 # Zdarfa (Moppy) Custom Modded BSC Geth
 
 >Advanced modified geth  for your Private Node.
->
 >Sniping speed on Txpool (mempool) is drastically increased ! 
 
 ## Public tests:
