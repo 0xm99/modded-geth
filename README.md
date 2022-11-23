@@ -11,7 +11,7 @@
 >
 >We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 >
->### ►► RESULT: Modded geth (SERVER A)  won 16 snipes out of 20 ◄◄
+### ►► RESULT: Modded geth (SERVER A)  won 16 snipes out of 20 ◄◄
 
 ##
 ## Details:
