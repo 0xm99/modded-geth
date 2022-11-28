@@ -73,6 +73,9 @@ position on block	11	19	15+1*	12	16	15			1
 *+1 means 1 block late
 
 ```
+>signed tx for wallet from server A:
+>https://bscscan.com/tx/0xd99dcdeeec6825be547298872bbdb7d17a69cf229adf3cd0c14f26c3b86fadfa
+
 
 ## Contact ##
 
