@@ -12,6 +12,7 @@
 >We sniped 20 times "addliquidity" on Cake with the 6 snipers at the same time.
 >
 ### ►► RESULT: Modded geth (SERVER A)  won 16 snipes out of 20 ◄◄
+>signed tx for wallet from server A: https://bscscan.com/tx/0xd99dcdeeec6825be547298872bbdb7d17a69cf229adf3cd0c14f26c3b86fadfa
 
 ##
 ## Details:
