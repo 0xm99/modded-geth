@@ -80,6 +80,8 @@ position on block	11	19	15+1*	12	16	15			1
 
 ## UPDATED TEST FEBRUARY 2023
 
+Modded geth  wins 14/20 snipes
+
 https://github.com/0xm99/modded-geth/blob/main/updated_public_test_27.02.2023.txt
 
 
