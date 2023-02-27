@@ -78,6 +78,11 @@ position on block	11	19	15+1*	12	16	15			1
 >https://bscscan.com/tx/0xd99dcdeeec6825be547298872bbdb7d17a69cf229adf3cd0c14f26c3b86fadfa
 
 
+UPDATED TEST FEBRUARY 2023
+
+https://github.com/0xm99/modded-geth/blob/main/updated_public_test_27.02.2023.txt
+
+
 ## Contact ##
 
 <https://moppynodes.com>
