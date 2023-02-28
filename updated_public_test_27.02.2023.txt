@@ -42,7 +42,7 @@ Modded geth  (node 01)  wins 14/20 snipes
 	winner: 						        14/20				      3/20				      2/20				      1/20				      0/20				     0/20	
 																												
 	Add liquidity address: 				0xA2457d469Ad733261B19C740AFdFCa6020ED797b 																							
-	node 1 address (modded geth)  0x739a6e7d221aeb8fa0b4632f82dd01322f0b1249																							
+	node 1 address (modded geth)                    0x739a6e7d221aeb8fa0b4632f82dd01322f0b1249																							
 	node 2 address				        0x051d10f163da824614762Cf2EA558085d622e94a 																							
 	node 3 address				        0xaC582Cb4474E955816432905b0eE51fAfb9F32a8																							
 	node 4 address				        0xA943CAdfDD99c52981D205C245b5cA792b186B47																							
