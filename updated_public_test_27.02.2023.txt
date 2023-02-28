@@ -1,5 +1,7 @@
-moppy modded geth
-TEST UPDATE 27 - 02 - 20203
+###############################
+#    Moppy Modded Geth        #
+# TEST UPDATE 27 - 02 - 20203 #
+###############################
 
 Sniping addliquidity with nodejs basic sniper script (basic sniper code source: https://github.com/extradz/basic_sniper)
 
